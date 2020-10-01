@@ -2,7 +2,7 @@
 
 # Autor
 
-   * [Fernanado Barrera Barrera](https://github.com/fernando-b15) :guitar:
+   * [Fernando Barrera Barrera](https://github.com/fernando-b15) :guitar:
    
 # Despliegues
 
